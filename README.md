@@ -1,0 +1,1 @@
+# array-of-numbers-return-a-new-array-where-each-number-is-squared.
